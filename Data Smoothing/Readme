@@ -1,2 +1,2 @@
 This folder includes several methods for data smoothing or denoising;
-Here we have simple moving average(SMA), weighted moving average(WMA), moving least square(MLS) for smoothing;
+Here we have simple moving average(SMA), weighted moving average(WMA) for smoothing;
