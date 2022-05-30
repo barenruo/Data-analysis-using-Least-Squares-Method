@@ -1,0 +1,3 @@
+This folder includes an example of finding and adjusting outliers in a series of data;
+The outliers are detected via residual estimation;
+They will be adjusted by introducing the regression value to replace them;
