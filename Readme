@@ -1,0 +1,3 @@
+This repository includes several functions for data analysis using Least Square Method;
+They can be used in regression, fitting, denoising, interpolation, and prediction;
+These codes are based on C, which means less time-consuming;
