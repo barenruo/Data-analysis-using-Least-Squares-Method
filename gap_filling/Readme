@@ -1,0 +1,2 @@
+This folder includes a moving least square method for data interpolation;
+sometimes we need to close the data gaps for some harmonic analysis for example Fourier Analysis.
